@@ -4,7 +4,7 @@ if vim.fn.exists("syntax_on") then
 end
 vim.o.background = "dark"
 vim.o.termguicolors = true
-vim.g.colors_name = "onedarker"
+vim.g.colors_name = "onedarkerdarker"
 
 local util = require("onedarker.util")
 Config = require("onedarker.config")
